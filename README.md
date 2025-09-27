@@ -1,1 +1,1 @@
-"# ALX Project Nexus Documentation Hub" 
+# ALX Project Nexus Documentation Hub
