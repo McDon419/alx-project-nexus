@@ -6,7 +6,7 @@ This repository is a **documentation hub** for the ProDev Frontend Engineering p
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 **Project Nexus** is the capstone experience for the ProDev Frontend Engineering program. The goal is to demonstrate frontend skills by building a real, well-structured, responsive application and documenting the journey in this repository.
 
@@ -18,7 +18,7 @@ This repo (`alx-project-nexus`) is intended to be:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Consolidate key learnings from the ProDev FE program.
 * Document major frontend technologies, concepts, and system design decisions.
@@ -27,7 +27,7 @@ This repo (`alx-project-nexus`) is intended to be:
 
 ---
 
-## 🔑 Key Sections
+## Key Sections
 
 * **Comprehensive Documentation:** Summaries and examples for Next.js, TailwindCSS, TypeScript, GraphQL, API Integration, PWAs, and System Design.
 * **Challenges & Solutions:** Real-world issues encountered during projects and the solutions applied.
@@ -36,7 +36,7 @@ This repo (`alx-project-nexus`) is intended to be:
 
 ---
 
-## 🛠 Suggested Folder Structure
+## Suggested Folder Structure
 
 ```
 alx-project-nexus/
@@ -52,7 +52,7 @@ alx-project-nexus/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Create a new GitHub repository named **`alx-project-nexus`**.
 2. Copy this `README.md` into the root directory.
@@ -71,7 +71,7 @@ git push -u origin main
 
 ---
 
-## 📋 Submission Checklist
+## Submission Checklist
 
 * [ ] Repository named `alx-project-nexus`
 * [ ] `README.md` with program overview, key learnings, challenges, and best practices
@@ -82,17 +82,15 @@ git push -u origin main
 
 ---
 
-## 🧭 Timeline
+## Timeline
 
 * **Start Date:** September 8, 2025
 * **Submission Deadline:** September 28, 2025
 * **Project Review:** September 29 – October 1, 2025
 
-⚠️ Submit **before the deadline** to generate your review link.
-
 ---
 
-## 🧑‍🏫 Mentors & Communication
+## Mentors & Communication
 
 * **Mentors:** Cole, Faith, and Amanuel
 * **Discord:** `@Cohort 2-TL-ProDev-FE Mentor`
@@ -102,7 +100,7 @@ Use Discord for collaboration with frontend and backend learners.
 
 ---
 
-## 🧾 Evaluation Criteria
+## Evaluation Criteria
 
 **60% – 80% (Good Job):** Meets requirements, some refinements needed.
 **80%+ (Exceptional Work):** Outstanding project with enhancements and polish.
@@ -117,7 +115,7 @@ Use Discord for collaboration with frontend and backend learners.
 
 ---
 
-## 🔁 Collaboration & Workflow
+## Collaboration & Workflow
 
 * **Branching strategy:**
 
@@ -138,7 +136,7 @@ Use Discord for collaboration with frontend and backend learners.
 
 ---
 
-## 📚 Resources
+## Resources
 
 * [MDN Web Docs](https://developer.mozilla.org/)
 * [React Documentation](https://react.dev/)
@@ -150,7 +148,7 @@ Use Discord for collaboration with frontend and backend learners.
 
 ---
 
-## ✅ Next Steps
+## Next Steps
 
 1. Push this README to GitHub.
 2. Add `.gitignore`, `LICENSE`, and a simple GitHub Action if needed.
